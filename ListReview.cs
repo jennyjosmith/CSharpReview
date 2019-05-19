@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+// source: Agile Software Development Book II by Lynn Smith
 namespace Example3dot1
 {
 	class Program
